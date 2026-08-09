@@ -19,3 +19,5 @@ This project performs Exploratory Data Analysis (EDA) and predictive modeling on
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Sahilya31/Syntecxhub_Bank_Loan_Analysis-task-4.git](https://github.com/Sahilya31/Syntecxhub_Bank_Loan_Analysis-task-4.git)
+pip install -r requirements.txt
+jupyter notebook Task4_Loan_Data_Analysis.ipynb
